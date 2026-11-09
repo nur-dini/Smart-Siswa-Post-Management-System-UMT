@@ -3,6 +3,8 @@ Project CSF3143
 ## Group Information
 **Group Name:**
 **Project Title:** Smart Siswa Post Management System UMT
+## Target users 
+UMT Students
 ## Group Members 
 
 1. PRISS NA A/P UTHAI (S87198)
